@@ -5,7 +5,7 @@ A mini Machine Learning project that classifies emails as **spam** or **ham** us
 ## Files
 - `Spam_Email_Classifier.ipynb` — Google Colab notebook (main)
 - `Spam_Email_Classifier.py` — optional Python script
-- `Project_Report.pdf` — 1-page project report
+- `Project_Report.pdf` — project report
 - `screenshots/` — output screenshots
 
 ## How to run
